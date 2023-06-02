@@ -15,7 +15,7 @@ Exercises are designed to take between **10-20 minutes** depending in your skill
 
 Do not worry if you take longer. The important thing is that you give it a try and **stay consistent** 💪
 
-## How to copy get started:
+## How to get started:
 1. Create a folder in your computer named **SQL**:
 2. Open terminal and access directory
 3. Copy:
