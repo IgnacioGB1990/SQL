@@ -5,6 +5,6 @@
 2. Open terminal and access directory
 3. Copy:
 ~~~
-git clone https://github.com/IgnacioGB1990/SQL_Data_Science.git
+git clone https://github.com/IgnacioGB1990/SQL.git
 ~~~
 4. Start practicing your skills ! 🚀
