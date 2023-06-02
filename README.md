@@ -9,7 +9,7 @@ In order to learn efficiently you must dive in into the exercises provided for e
 
 Exercises are designed to take between 10-20 minutes depending in your skill/experience level.
 
-Do not worry if you take longer. The important things is that you give it a try and **stay consistent** 💪
+Do not worry if you take longer. The important things is that you give it a try and stay consistent 💪
 
 ## How to copy study guide:
 1. Create a folder in your computer named **SQL**:
