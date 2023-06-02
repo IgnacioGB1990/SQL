@@ -7,9 +7,9 @@ This course is meant for those who want to learn SQL in a **practical and effici
 
 Watching videos or reading posts is not enough. **You must dive in!**
 
-The course progresses from beginner-friendly to advanced. It contains lectures and exercises.
+The course progresses from beginner-friendly to advanced.
 
-It is divided into chapters where you will find a lecture that will help you complete the exercises.
+It is divided into chapters where you will find a lectures and exercises.
 
 Exercises are designed to take between **10-20 minutes** depending in your skill/experience.
 
