@@ -12,7 +12,7 @@ The course progresses from beginner-friendly to advanced.
 
 It is divided into chapters where you will find lectures and exercises.
 
-Exercises are designed to take between **10-20 minutes** depending in your skill/experience.
+Exercises are designed to take between **10-20 minutes** depending on your skill/experience.
 
 Do not worry if you take longer. The important thing is that you give it a try and **stay consistent** 💪
 
