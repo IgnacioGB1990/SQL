@@ -1,5 +1,6 @@
 # Hands-On SQL
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></img>
 
 ## How to take advantage of this course:
 
