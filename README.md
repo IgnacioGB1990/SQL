@@ -7,7 +7,7 @@ This course is meant for those who want to learn SQL in a **practical and effici
 
 Watching videos or reading posts is not enough. **You must dive in!**
 
-Exercises are designed to take between **10-20 minutes** depending in your skill/experience level.
+Exercises are designed to take between **10-20 minutes** depending in your skill/experience.
 
 Do not worry if you take longer. The important things is that you give it a try and **stay consistent** 💪
 
