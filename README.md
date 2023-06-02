@@ -1,4 +1,4 @@
-# Hands-On SQL lectures and exercises
+# Hands-On SQL
 
 
 ## How to take advantage of this course:
@@ -7,7 +7,7 @@ This course is meant for those who want to learn SQL in a **practical and effici
 
 Watching videos or reading posts is not enough. **You must dive in!**
 
-The course progresses from beginner-friendly to advanced.
+The course progresses from beginner-friendly to advanced. It contains lectures and exercises.
 
 It is divided into chapters where you will find a lecture that will help you complete the exercises.
 
