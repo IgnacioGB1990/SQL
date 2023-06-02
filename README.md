@@ -1,6 +1,6 @@
 # Hands-On SQL
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width=600 height=300></img>
+<img src="https://www.freecodecamp.org/news/content/images/2020/08/Untitled-design-1-.png" width=600 height=300></img>
 
 ## How to take advantage of this course:
 
