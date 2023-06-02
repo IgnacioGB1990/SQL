@@ -7,3 +7,4 @@
 ~~~
 git clone https://github.com/IgnacioGB1990/SQL_Data_Science.git
 ~~~
+4. Start practicing your skills ! 🚀
