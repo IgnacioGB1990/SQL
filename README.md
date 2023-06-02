@@ -13,7 +13,7 @@ Do not worry if you take longer. The important things is that you give it a try 
 
 **Practice makes perfect**
 
-## How to copy study guide:
+## How to copy get started:
 1. Create a folder in your computer named **SQL**:
 2. Open terminal and access directory
 3. Copy:
