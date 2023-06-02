@@ -11,8 +11,6 @@ Exercises are designed to take between **10-20 minutes** depending in your skill
 
 Do not worry if you take longer. The important things is that you give it a try and **stay consistent** 💪
 
-### PRACTICE MAKES PERFECT
-
 ## How to copy get started:
 1. Create a folder in your computer named **SQL**:
 2. Open terminal and access directory
@@ -21,3 +19,8 @@ Do not worry if you take longer. The important things is that you give it a try 
 git clone https://github.com/IgnacioGB1990/SQL.git
 ~~~
 4. Start practicing your skills ! 🚀
+
+
+Remember:
+
+### PRACTICE MAKES PERFECT
