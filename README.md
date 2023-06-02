@@ -3,7 +3,7 @@
 
 ## How to take advantage of this course:
 
-This course is meant for those who want to learn SQL in a practical and efficient approach. 
+This course is meant for those who want to learn SQL in a **practical and efficient** approach. 
 
 Watching videos or reading posts is not enough. **You must dive in!**
 
