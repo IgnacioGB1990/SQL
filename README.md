@@ -1,7 +1,7 @@
 # Hands-On SQL lectures and exercises
 
 
-1. Create a folder in your computer **SQL_Data**:
+1. Create a folder in your computer **SQL**:
 2. Open terminal and access directory
 3. Copy:
 ~~~
