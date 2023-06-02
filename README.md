@@ -26,3 +26,10 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 4. Start practicing your skills ! 🚀
 
 
+## What you will learn in each chapter:
+
+1. Introduction
+- `SELECT` columns `FROM` table
+- `DISTINCT`
+- `COUNT`
+- `WHERE`
