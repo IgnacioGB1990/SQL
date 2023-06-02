@@ -21,6 +21,3 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 4. Start practicing your skills ! 🚀
 
 
-Remember:
-
-### PRACTICE MAKES PERFECT
