@@ -3,9 +3,9 @@
 
 ## How to take advantage of this course:
 
-This course is meant for those who want to learn SQL in a practical approach. 
+This course is meant for those who want to learn SQL in a practical and efficient approach. 
 
-In order to learn efficiently you must dive in into the exercises provided for each lecture.
+Watching videos or reading posts is not enough. You must dive in !
 
 Exercises are designed to take between 10-20 minutes depending in your skill/experience level.
 
