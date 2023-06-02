@@ -1,8 +1,9 @@
-# SQL Hands-On Lectures and Exercises
+# Hands-On SQL lectures and exercises
 
 
-Open terminal and copy:
-
+1. Create a folder in your computer *SQL_Data*:
+2. Open terminal and access directory
+3. Copy:
 ~~~
 git clone https://github.com/IgnacioGB1990/SQL_Data_Science.git
 ~~~
