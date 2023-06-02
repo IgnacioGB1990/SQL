@@ -1,6 +1,6 @@
 # Hands-On SQL
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width=400 height=300></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width=600 height=300></img>
 
 ## How to take advantage of this course:
 
