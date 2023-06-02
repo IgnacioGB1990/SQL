@@ -1,6 +1,6 @@
 # Hands-On SQL
 
-<img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" width=400 height=200></img>
+<img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" width=300 height=150></img>
 
 ## How to take advantage of this course:
 
