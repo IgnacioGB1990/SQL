@@ -9,9 +9,9 @@ Watching videos or reading posts is not enough. **You must dive in!**
 
 Exercises are designed to take between **10-20 minutes** depending in your skill/experience level.
 
-Do not worry if you take longer. The important things is that you give it a try and stay consistent 💪
+Do not worry if you take longer. The important things is that you give it a try and **stay consistent** 💪
 
-**Practice makes perfect**
+### PRACTICE MAKES PERFECT
 
 ## How to copy get started:
 1. Create a folder in your computer named **SQL**:
