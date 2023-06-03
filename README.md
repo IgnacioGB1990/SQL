@@ -33,3 +33,5 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 - `DISTINCT`
 - `COUNT`
 - `WHERE`
+- `ORDER BY`
+- `LIMIT`
