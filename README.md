@@ -28,11 +28,15 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 
 ## What you will learn in each chapter:
 
-1. Introduction
+1. Basic Commands
 - `SELECT` columns `FROM` table
+- `AND`, `OR` and `NOT`
+- `LIMIT`
 - `DISTINCT`
 - `COUNT`
 - `WHERE`
 - `ORDER BY`
-- `LIMIT`
 - `BETWEEN`
+- `IN`
+- `LIKE` and `ILIKE`
+
