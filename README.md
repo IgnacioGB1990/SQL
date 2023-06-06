@@ -40,7 +40,7 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 - `IN`
 - `LIKE` and `ILIKE`
 
-1. GROUP BY
+2. GROUP BY
 - `GROUP BY`
 - `DATE`
 - `HAVING`
