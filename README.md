@@ -44,5 +44,4 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 - `GROUP BY`
 - `DATE`
 - `HAVING`
-- `GROUP BY`
-- `DISTINCT`
+
