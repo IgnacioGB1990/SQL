@@ -47,6 +47,7 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 
 
 3. JOINS
+- `AS`
 - `INNER`
 - `LEFT`
 - `RIGHT`
