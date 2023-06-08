@@ -48,5 +48,6 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 
 3. JOINS
 - `INNER`
-- `FULL OUTER`
 - `LEFT`
+- `RIGHT`
+- `FULL OUTER`
