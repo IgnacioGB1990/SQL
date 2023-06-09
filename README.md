@@ -52,3 +52,12 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 - `LEFT`
 - `RIGHT`
 - `FULL OUTER`
+
+4. ADVANCED SQL COMMANDS
+- Timestamps
+- `EXTRACT`
+- Math Functions
+- String Functions
+- Sub-query
+- Self-Join
+
