@@ -1,7 +1,7 @@
 # Hands-On SQL
 
 <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" width=300 height=150></img>
-
+<!--
 ## How to take advantage of this course:
 
 This course is meant for those who want to learn SQL in a **practical and efficient** approach. 
@@ -15,7 +15,7 @@ It is divided into chapters where you will find lectures and exercises.
 Exercises should take no longer than **10 minutes**. Do not worry if you take longer.
 
 The important thing is that you give it a try and **stay consistent** 💪
-
+-->
 ## How to get started:
 1. Create a folder in your computer named **SQL**:
 2. Open terminal and access directory
