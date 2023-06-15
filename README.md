@@ -61,3 +61,6 @@ git clone https://github.com/IgnacioGB1990/SQL.git
 - Sub-query
 - Self-Join
 
+
+5. CREATE, DROP
+
